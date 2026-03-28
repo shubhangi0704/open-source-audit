@@ -1,4 +1,9 @@
 #!/bin/bash
+# Script 5: Open Source Manifesto Generator
+# Name: Shubhangi
+# Registration Number: 24BOE10042
+# Description: Takes user input and generates a personalized
+# open-source philosophy statement saved to a file.
 
 echo "===== Open Source Manifesto Generator ====="
 
