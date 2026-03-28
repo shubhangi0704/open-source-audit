@@ -1,4 +1,9 @@
 #!/bin/bash
+# Script 4: Log File Analyzer
+# Name: Shubhangi
+# Registration Number: 24BOE10042
+# Description: Reads a log file, counts ERROR and WARNING lines,
+# and prints a summary.
 
 # Check if file argument is given
 if [ -z "$1" ]
