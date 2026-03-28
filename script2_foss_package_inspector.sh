@@ -1,5 +1,9 @@
 #!/bin/bash
-
+# Script 2: FOSS Package Inspector
+# Name: Shubhangi
+# Registration Number: 24BOE10042
+# Description: Checks if a package is installed, shows version,
+# and displays its purpose using a case statement.
 echo "Enter package/software name:"
 read package
 
