@@ -1,6 +1,9 @@
 #!/bin/bash
-
-# Variables using command substitution
+# Script 1: System Identity Report
+# Name: Shubhangi
+# Registration Number: 24BOE10042
+# Description: Displays Linux distribution, kernel version, user info,
+# uptime, date/time, and license information.
 dist_name=$(grep '^PRETTY_NAME' /etc/os-release | cut -d= -f2 | tr -d '"')
 kernel=$(uname -r)
 user=$(whoami)
