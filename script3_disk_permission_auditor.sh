@@ -1,4 +1,9 @@
 #!/bin/bash
+# Script 3: Disk and Permission Auditor
+# Name: Shubhangi
+# Registration Number: 24BOE10042
+# Description: Loops through important directories and displays
+# disk usage, owner, and permissions.
 
 echo "======= Disk and Permission Auditor ======="
 
